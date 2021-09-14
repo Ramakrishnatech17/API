@@ -1,0 +1,20 @@
+  {
+    “appID”:“value”,
+    “connectionID”: “value”,
+    “sequenceNo”: “value”,
+    “comParams”: [
+    {
+      “comParamName”: “value”,
+      “comParamData”: “value”
+    },
+    {
+      “comParamName”: “value”,
+      “comParamData”: “value”
+    },
+    . . .
+    {
+      “comParamName”: “value”,
+      “comParamData”: “value”
+    }
+  ]
+}
