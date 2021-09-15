@@ -4,3 +4,11 @@
      “sequenceNo”: “value”,
    “securityData”:“value”
 }
+{
+     “appID”:“value”,
+     “connectionID”: “value”,
+     “sequenceNo”: “value”,
+   “data”:“value”,
+   “responseCode”:“value”
+}
+
