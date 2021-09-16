@@ -4,3 +4,10 @@
      “sequenceNo”: “value”,
     “did”:[“did1”, “did2”, …, “didN”]
 }
+{
+     “appID”:“value”,
+     “connectionID”: “value”,
+     “sequenceNo”: “value”,
+   "data":[
+{"did": "value", did:"value", responseCode: "value"},
+
