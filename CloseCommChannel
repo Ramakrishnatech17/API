@@ -1,0 +1,6 @@
+{
+     “appID”:“value”,
+     “connectionID”: “value”,
+     “sequenceNo”: “value”,
+    “did”:[“did1”, “did2”, …, “didN”]
+}
