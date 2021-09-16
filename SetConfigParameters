@@ -1,6 +1,4 @@
-  asyncapi: '2.1.0'
-  title: Account Service
-  version: 1.0.0
+
   description: This service is in charge of processing user signups
   {
     “appID”:“value”,
