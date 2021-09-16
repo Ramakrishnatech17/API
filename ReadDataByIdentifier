@@ -2,11 +2,11 @@ asyncapi: '2.1.0'
 info:
   title: Not example
   version: '1.0.0'
-    “appID”:“value”,
-    “connectionID”: “value”,
-    “sequenceNo”: “value”,
-    “comParams”:
-      “comParamName”: “value”,
+    AppID:“1”,
+    ConnectionID: “1.0”,
+    SequenceNo: “1.1”,
+    ComParams:
+      ComParamName: "value”,
       “comParamData”: “value”
       “comParamName”: “value”,
       “comParamData”: “value”
