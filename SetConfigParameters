@@ -1,6 +1,5 @@
 
-  description: This service is in charge of processing user signups
-  {
+{
     “appID”:“value”,
     “connectionID”: “value”,
     “sequenceNo”: “value”,
@@ -20,3 +19,4 @@
     }
   ]
 }
+
